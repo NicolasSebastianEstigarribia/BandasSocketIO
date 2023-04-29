@@ -10,10 +10,11 @@ Una aplicación en la cual puedes votar por tu banda favorita : ¡funciona en An
 
 ## Tecnologias usadas
 Server: NodeJS   
-https://github.com/NicolasSebastianEstigarribia/NodeJS-BandsName  
+https://github.com/NicolasSebastianEstigarribia/NodeJS-BandasSocketIO  
 Paquetes: Express, SocketIO, uuid  
 Deploy: Render  
 Client: Flutter  
+https://github.com/NicolasSebastianEstigarribia/Flutter-BandasSocketIO  
 
 
 ### Objetivo:
